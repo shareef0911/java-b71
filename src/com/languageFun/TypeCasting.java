@@ -1,15 +1,13 @@
 package com.languageFun;
 
 
-import java.util.Scanner;
-
 public class TypeCasting {
 	
 	double d1 = 9087654321.546876543;
 	
 	int i1 = (int) d1;
-	float f1 = (float) i1;
-	long l1 = (long) f1;
+	float f1 = (float) d1;
+	long l1 = (long) d1;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
