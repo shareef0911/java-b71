@@ -21,7 +21,7 @@ class Test{
 	}
 	// object in method 
 	void method() {
-		Test t6 = new Test();
+//		Test t6 = new Test();
 	}
 }
 

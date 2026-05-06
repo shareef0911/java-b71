@@ -13,7 +13,7 @@ public class Student {
 	
 	public static void main (String[] args) {
 //		System.out.println("--------------Student 1 info-----------");
-		Student s1 = new Student();
+//		Student s1 = new Student();
 //		s1.s_id = 001;
 //		s1.s_name = "Baji";
 //		s1.email = "baji@gmai.com";
@@ -27,7 +27,7 @@ public class Student {
 		
 		
 //		System.out.println("--------------Student 2 info-----------");
-		Student s2 = new Student();
+//		Student s2 = new Student();
 //		s2.s_id = 002;
 //		s2.s_name = "Hemanth";
 //		s2.email = "Hemanth@gmai.com";
@@ -41,7 +41,7 @@ public class Student {
 		
 		
 //		System.out.println("--------------Student 3 info-----------");
-		Student s3 = new Student();
+//		Student s3 = new Student();
 //		s3.s_id = 003;
 //		s3.s_name = "Harsh";
 //		s3.email = "Harsha@gmai.com";
@@ -55,7 +55,7 @@ public class Student {
 		
 		
 		System.out.println("--------------Student 4 info-----------");
-		Student s4 = new Student();
+//		Student s4 = new Student();
 //		s4.s_id = 004;
 //		s4.s_name = "Lalith";
 //		s4.email = "Lalith@gmai.com";
@@ -69,7 +69,7 @@ public class Student {
 		
 		
 		System.out.println("--------------Student 5 info-----------");
-		Student s5 = new Student();
+//		Student s5 = new Student();
 //		s5.s_id = 005;
 //		s5.s_name = "ravi";
 //		s5.email = "ravi@gmai.com";

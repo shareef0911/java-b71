@@ -12,7 +12,7 @@ public class TestLs5 {
 			System.out.println("Enter Number :");
 			int num = sc.nextInt();
 			
-			if(num%3 == 0 && num%5 == 0) {
+			if(num%5%3 == 0) {
 				System.out.println("FizzBuss");
 			}
 			else if(num%3 == 0){
