@@ -20,8 +20,8 @@ public class Loan {
 	boolean isValidPan() {
 		System.out.println("Enter PAN number : ");
 		String pan = sc.next();
-		String pan1 = pan.toUpperCase();
-		return pan1.matches("[A-Z]{5}[0-9]{4}[A-Z]{1}");
+		pan = pan.toUpperCase();
+		return pan.matches("[A-Z]{5}[0-9]{4}[A-Z]{1}");
 	}
 	
 	boolean isValidAadhaar() {
@@ -53,6 +53,4 @@ public class Loan {
 		return 10.5;
 	}
 	
-	
-
 }

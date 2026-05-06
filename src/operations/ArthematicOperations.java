@@ -20,7 +20,7 @@ public class ArthematicOperations {
 	public static void main(String[] args) {
 		
 		int a1 = 10;
-		int b1 = 20;
+		int b1 = -20;
 		
 //		int temp = a1;
 //		a1 = b1;
@@ -32,6 +32,7 @@ public class ArthematicOperations {
 		
  		System.out.println("A1 value : "+a1);
 		System.out.println("B1 value : "+b1);
+		System.out.println(~a1);
 
 		ArthematicOperations a = new ArthematicOperations();
 		a.show();

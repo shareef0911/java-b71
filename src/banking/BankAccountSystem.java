@@ -53,8 +53,7 @@ public class BankAccountSystem {
 //		ba.withdrawal(1000);
 		ba.display();
 		
-		
-
+		sc.close();
 	}
 
 }
